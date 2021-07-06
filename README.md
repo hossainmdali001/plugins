@@ -1,2 +1,2 @@
 # plugins
-jquery plugins usages
+https://hossainmdali001.github.io/plugins/
